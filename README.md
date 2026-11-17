@@ -8,6 +8,8 @@ A scenario that reads customer emails about deliveries, checks the customer's cl
 
 ## The scenario
 
+![Make.com scenario: Gmail → OpenAI → Google Sheets → Notion → Router → OpenAI → Router → Slack](images/make-scenario.png)
+
 ```
 Gmail (new email) ──► OpenAI (extract the claim) ──► Google Sheets (find the order) ──► Notion (find the CRM note) ──► Router
                                                                                                                       ├─► Source missing: stop
