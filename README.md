@@ -2,6 +2,10 @@
 
 A scenario that reads customer emails about deliveries, checks the customer's claim against your order system (Google Sheets) and your CRM notes (Notion), and alerts your team on Slack when the claim conflicts with your records or needs a human look.
 
+▶️ **Video tutorial:** [watch on YouTube](https://www.youtube.com/watch?v=_oXBNgB0dss)
+
+[![Watch the tutorial on YouTube](https://img.youtube.com/vi/_oXBNgB0dss/hqdefault.jpg)](https://www.youtube.com/watch?v=_oXBNgB0dss)
+
 ## The scenario
 
 ```
