@@ -1,6 +1,6 @@
 # AI Contradiction / Consistency Checker
 
-A [Make.com](https://www.make.com) scenario that reads customer emails about deliveries, checks the customer's claim against your order system (Google Sheets) and your CRM notes (Notion), and alerts your team on Slack when the claim conflicts with your records or needs a human look.
+A scenario that reads customer emails about deliveries, checks the customer's claim against your order system (Google Sheets) and your CRM notes (Notion), and alerts your team on Slack when the claim conflicts with your records or needs a human look.
 
 ## The scenario
 
