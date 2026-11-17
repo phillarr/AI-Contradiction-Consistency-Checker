@@ -80,3 +80,7 @@ Gmail (new email) ──► OpenAI (extract the claim) ──► Google Sheets (
 - **The Gmail module marks the emails it reads as read.** Turn off "Mark as read" if you don't want that.
 - **API keys and OAuth tokens stay in your Make connections** and are never exported in the blueprint.
 - **Emails are untrusted input.** Someone could write an email designed to trick the AI (prompt injection). The prompts tell the AI never to conclude that the customer is wrong, and a human reviews every alert.
+
+## License
+
+[MIT](LICENSE)
